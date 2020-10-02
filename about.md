@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Other
-    subtitle: About Page Demo
+    subtitle: Other title
     align: center
     background_color: secondary
   - type: features_section
