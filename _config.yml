@@ -16,7 +16,7 @@ header:
     - type: action
       label: Features
       url: /features
-      style: link
+      style: primary
     - type: action
       label: Pricing
       url: /pricing
